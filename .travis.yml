@@ -7,7 +7,7 @@ script:
 - ./hello
 
 env:
- - COMPILER=g++-6
+- COMPILER=g++-6
 
  addons:
  apt:
