@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/ZaMaZaN4iK/hello.svg?branch=master)](https://travis-ci.org/ZaMaZaN4iK/hello)
