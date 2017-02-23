@@ -9,9 +9,9 @@ script:
 env:
 - COMPILER=g++-6
 
- addons:
- apt:
- sources:
- - ubuntu-toolchain-r-test
- packages:
- - g++-6
+addons:
+apt:
+sources:
+- ubuntu-toolchain-r-test
+packages:
+- g++-6
